@@ -1,2 +1,3 @@
 # secondConflict
-hello from person one
+
+hello from person two
